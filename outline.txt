@@ -1,0 +1,7 @@
+Book Title: "The Programmer"
+Author: Somveer Kishnah
+
+Outline:
+
+Main Theme:
+A Programmer is a machine that converts Coffee into Codes
