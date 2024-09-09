@@ -5,3 +5,6 @@ Outline:
 
 Main Theme:
 A Programmer is a machine that converts Coffee into Codes
+
+Chapter 1:
+Naala Lana works at SuperSoft which a fast growing Software development Company in Mauriius.
