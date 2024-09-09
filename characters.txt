@@ -3,3 +3,8 @@ Main Protagonist:
 
 Main Antagonist:
     Sanjay Curpen
+
+Other Characters:
+    Best Friend1    : Pepper Potts
+    Best Friend1    : Akira Yoshiri
+    Boyfriend       : Solin Karl
